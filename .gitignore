@@ -6,7 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-*.xsl
+*.xslx
 *.csv
 node_modules
 node_modules
